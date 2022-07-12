@@ -1,0 +1,8 @@
+This folder is about me making a about me website :
+
+website will contain several pointers :
+1. who am i 
+2. what am i currently doing
+3. My skills
+4. Where do i see myself in future
+5. How to contact me
